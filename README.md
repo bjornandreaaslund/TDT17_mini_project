@@ -1,5 +1,5 @@
 # TDT17 mini project
-Object detection from LiDAR data. The project is a part of the class TDT17 at NTNU. This repository is only to show how we solved this task. 
+Object detection from LiDAR data. The project is a part of the class TDT17 at NTNU. This repository is only to show how we solved this task, and not meant to be executeable. 
 
 
 ## Structure
