@@ -7,5 +7,5 @@ Object detection from LiDAR data. The project is a part of the class TDT17 at NT
     ├── statistics              # Code to obtain statistics about the object classes
     ├── preprocessing           # Code for preprocessing of video and annotations
     ├── yolov5                  # Reposetory from ultralytics that is adapted to our task
-    ├── run.py
+    ├── run.py                  # Code to run the model in Google Colaboratory
     └── README.md
